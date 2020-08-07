@@ -1,2 +1,2 @@
 # projects
-Some of the projects done during the academic year
+Some of the Python Projects done during the academic year
